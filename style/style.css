@@ -1,0 +1,207 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+.nav-content {
+    width: 1110px;
+    margin: 0 auto;
+}
+
+.img-logo {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 79px;
+    padding-top: 50px;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 38px;
+    list-style:none;
+}
+
+.nav-link {
+    display: flex;
+    margin-right: 30px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #8C9A9A;
+}
+
+.header-content {
+    display: flex;
+    justify-content: center;
+}
+
+.main-content {
+    margin: 0 auto;
+    width: 1110px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.first{
+    background: #F0F0F0;
+    margin-top: 30px;
+    padding: 98px 95px 51px 40px;
+}
+
+.topic {
+    display: block;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    font-family: arial;
+    color:#4581B7;
+    margin-bottom: 25px;
+}
+
+.topic2 {
+    display: block;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    font-family: arial;
+    color:#4581B7;
+    margin-bottom:  25px;
+}
+
+.second {
+    background: #F0F0F0;
+    margin-top: 30px;
+    padding: 98px 24px 159px 40px;
+}
+
+.text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    font-family: arial;
+    width: 595px;
+    color: #808080;
+}
+
+.paragraph {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    font-family: arial;
+    width: 286px;
+    color: #808080;
+}
+
+.number{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    font-family: arial;
+    color: #808080;
+    display: block;
+    margin-top: 20px;
+}
+
+
+.nick {
+    font-weight: arial;
+    font-size: 16px;
+    font-family: arial;
+    line-height: 27px;
+    color: #808080;
+    display: block;
+    margin-top: 40px;
+}
+
+.footer-content {
+    margin: 0 auto;
+    width: 1110px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    background: #F0F0F0;
+}
+
+.footer-logo {
+    margin-left: 40px;
+}
+
+.last {
+    margin-top: 46px;
+    margin-right: 40px;
+}
+
+.one {
+    margin-bottom: 10px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    font-family: arial;
+    color:#808080;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+    color: #808080;
+    font-family: arial;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
